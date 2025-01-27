@@ -22,6 +22,8 @@ These platforms offer a diverse range of learning opportunities, catering to dif
 - [SANS Cyber Aces](https://www.cyberaces.org) - Provides free foundational courses designed for understanding cybersecurity.
 - [Cisco Networking Academy](https://www.netacad.com) - Offers courses in cybersecurity, with certain modules available for free.
 - [OWASP Foundation](https://owasp.org) - An open-source platform providing resources and training to advance software security.
+- [Defbox](https://defbox.io) - Provides free and paid labs to gain practical skills on Incident Response and Threat detection. 
+
 
 ## News
 Stay ahead with the latest developments in cybersecurity. These news platforms provide timely and credible updates on cyber threats, innovations, and more.
